@@ -1,5 +1,5 @@
 # Database Design for Software Engineers
-### A Student Webinar by AmaliTech Coding Clubs
+### A Student Webinar for Coding Clubs
 
 > **Audience:** Ghana university students (100–400 level)
 > **Duration:** 2.5 – 3 hours (including hands-on exercises)
